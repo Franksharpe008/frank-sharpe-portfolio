@@ -433,19 +433,3 @@ const LiveProjectShowcase = () => {
 };
 
 export default LiveProjectShowcase;
-
-        {/* Live Demo Modal */}
-        <LiveDemoModal
-          project={selectedProject}
-          isOpen={isDemoModalOpen}
-          onClose={() => {
-            setIsDemoModalOpen(false);
-            setSelectedProject(null);
-          }}
-        />
-      </div>
-    </>
-  );
-};
-
-export default LiveProjectShowcase;
