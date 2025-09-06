@@ -152,9 +152,3 @@ const ValuesSection = () => {
 };
 
 export default ValuesSection;
-      </div>
-    </section>
-  );
-};
-
-export default ValuesSection;

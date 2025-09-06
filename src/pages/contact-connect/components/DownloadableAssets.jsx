@@ -216,11 +216,6 @@ Best regards,`);
 };
 
 export default DownloadableAssets;
-              </div>
-            </div>
-            
-            <div className="mt-6 pt-4 border-t border-border">
-              <p className="text-xs text-muted-foreground">
                 All materials are updated regularly. For the most current versions, 
                 please download directly from this page or contact me directly.
               </p>

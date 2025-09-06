@@ -283,9 +283,5 @@ const ContactForm = () => {
 };
 
 export default ContactForm;
-      </div>
-    </section>
-  );
-};
 
 export default ContactForm;
