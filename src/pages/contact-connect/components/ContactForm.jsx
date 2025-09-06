@@ -282,12 +282,7 @@ const ContactForm = () => {
   );
 };
 
-export default ContactForm;ree to receive communications about your inquiry. 
-                Your information is secure and will never be shared with third parties.
-              </p>
-            </div>
-          </form>
-        </div>
+export default ContactForm;
       </div>
     </section>
   );

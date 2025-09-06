@@ -215,12 +215,7 @@ Best regards,`);
   );
 };
 
-export default DownloadableAssets; flex-shrink-0" />
-                <span>Contact for permission before commercial use</span>
-              </div>
-              <div className="flex items-start space-x-3">
-                <Icon name="X" size={16} className="text-red-500 mt-0.5 flex-shrink-0" />
-                <span>Do not modify or redistribute without permission</span>
+export default DownloadableAssets;
               </div>
             </div>
             
