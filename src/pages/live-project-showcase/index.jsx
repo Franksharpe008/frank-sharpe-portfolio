@@ -433,10 +433,11 @@ const LiveProjectShowcase = () => {
 };
 
 export default LiveProjectShowcase;
-              </div>
-            </div>
-          </div>
         </section>
+      </div>
+    </>
+  );
+};
 
         {/* Live Demo Modal */}
         <LiveDemoModal
