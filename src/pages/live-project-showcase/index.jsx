@@ -432,7 +432,7 @@ const LiveProjectShowcase = () => {
   );
 };
 
-export default LiveProjectShowcase;>
+export default LiveProjectShowcase;
               </div>
             </div>
           </div>

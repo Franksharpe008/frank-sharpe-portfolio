@@ -40,7 +40,4 @@ const VisionFutureImpact = () => {
   );
 };
 
-export default VisionFutureImpact;;
-};
-
 export default VisionFutureImpact;
