@@ -1,107 +1,49 @@
-# React
+# Frank D. Sharpe · Practical AI & Business Systems
 
-A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
+I turn operating problems into working software. My background connects manufacturing leadership, equipment troubleshooting, client technology delivery, and AI-assisted application development.
 
-## 🚀 Features
+**[Watch Main Architect](https://franksharpe-main-architect.vercel.app/presentation)** · **[LinkedIn](https://www.linkedin.com/in/therelentlessconnoisseur)** · **[GitHub](https://github.com/Franksharpe008)**
 
-- **React 18** - React version with improved rendering and concurrent features
-- **Vite** - Lightning-fast build tool and development server
-- **Redux Toolkit** - State management with simplified Redux setup
-- **TailwindCSS** - Utility-first CSS framework with extensive customization
-- **React Router v6** - Declarative routing for React applications
-- **Data Visualization** - Integrated D3.js and Recharts for powerful data visualization
-- **Form Management** - React Hook Form for efficient form handling
-- **Animation** - Framer Motion for smooth UI animations
-- **Testing** - Jest and React Testing Library setup
+## Start here: Main Architect
 
-## 📋 Prerequisites
+**The problem:** staffing requirements, schedules, attendance, and coverage decisions become difficult to reconcile when they live in separate workflows.
 
-- Node.js (v14.x or higher)
-- npm or yarn
+**The system:** Main Architect connects those tasks in a personnel application. Aiden provides an approval-based interface for supported changes and reporting. A reviewer can inspect the saved result instead of relying on a presentation alone.
 
-## 🛠️ Installation
+**My contribution:** defined the operating requirements and action boundaries, directed AI-assisted implementation, tested workflows, and used reviewer feedback to correct navigation, roster behavior, and reporting.
 
-1. Install dependencies:
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-   
-2. Start the development server:
-   ```bash
-   npm start
-   # or
-   yarn start
-   ```
+The presentation pairs a short walkthrough with a separate fictional review workspace. Use the company-specific link supplied with your application or invitation to enter that workspace. The public presentation link does not grant owner access.
 
-## 📁 Project Structure
+Personnel are fictional and financial examples are illustrative. Product source remains private. The work demonstrates practical workflow design, guarded AI execution, saved outcomes, and correction through feedback.
 
-```
-react_app/
-├── public/             # Static assets
-├── src/
-│   ├── components/     # Reusable UI components
-│   ├── pages/          # Page components
-│   ├── styles/         # Global styles and Tailwind configuration
-│   ├── App.jsx         # Main application component
-│   ├── Routes.jsx      # Application routes
-│   └── index.jsx       # Application entry point
-├── .env                # Environment variables
-├── index.html          # HTML template
-├── package.json        # Project dependencies and scripts
-├── tailwind.config.js  # Tailwind CSS configuration
-└── vite.config.js      # Vite configuration
-```
+## More work to explore
 
-## 🧩 Adding Routes
+| Project | Problem addressed | What you can inspect |
+| --- | --- | --- |
+| [Sharpe Systems](https://github.com/Franksharpe008/sharpe-systems-flagship) | Visitors need a clear route from a business need to a suitable next step. | A working rules-based diagnostic and interactive service recommendations. [Open site](https://sharpe-systems-flagship.vercel.app/) |
+| [Reelhouse Library](https://github.com/Franksharpe008/reelhouse-library) | A content catalog needs useful discovery and an easy way to save a selection. | Search, format and genre filters, title detail pages, and a watchlist saved on the device. [Open site](https://reelhouse-library.vercel.app/) |
+| [Vibe & Value](https://github.com/Franksharpe008/vibe-and-value) | Meal planning needs visible price tradeoffs and connected planning steps. | Recipe comparisons, ingredient swaps, planning, and progress state using sample data. [Open prototype](https://vibe-and-value.vercel.app/) |
+| [Magnetar Motion House](https://github.com/Franksharpe008/magnetar-motion-house) | A visual presentation needs consistent motion and navigation beyond its opening screen. | A multi-page cinematic interface with video controls, optional audio, and motion safeguards. [Open site](https://magnetar-motion-house.vercel.app/) |
 
-To add new routes to the application, update the `Routes.jsx` file:
+## How I work
 
-```jsx
-import { useRoutes } from "react-router-dom";
-import HomePage from "pages/HomePage";
-import AboutPage from "pages/AboutPage";
+1. Understand the operating problem and the people using the system.
+2. Define the workflow, permissions, and observable result.
+3. Direct implementation with AI tools, frameworks, and integrations that fit the job.
+4. Reproduce issues, correct them, and verify the user-facing result.
+5. Document the decisions and teach the workflow clearly.
 
-const ProjectRoutes = () => {
-  let element = useRoutes([
-    { path: "/", element: <HomePage /> },
-    { path: "/about", element: <AboutPage /> },
-    // Add more routes as needed
-  ]);
+**Areas of contribution:** implementation and technical delivery, business systems, applied AI workflows, operational tooling, user enablement, and interface design.
 
-  return element;
-};
-```
+## About this repository
 
-## 🎨 Styling
+This repository is the public index for my selected work and contains an earlier React/Vite portfolio interface. The current featured systems are linked above; the older interface is not the source of Main Architect.
 
-This project uses Tailwind CSS for styling. The configuration includes:
-
-- Forms plugin for form styling
-- Typography plugin for text styling
-- Aspect ratio plugin for responsive elements
-- Container queries for component-specific responsive design
-- Fluid typography for responsive text
-- Animation utilities
-
-## 📱 Responsive Design
-
-The app is built with responsive design using Tailwind CSS breakpoints.
-
-
-## 📦 Deployment
-
-Build the application for production:
+To explore that interface locally:
 
 ```bash
-npm run build
+npm install
+npm start
 ```
 
-## 🙏 Acknowledgments
-
-- Built with [Rocket.new](https://rocket.new)
-- Powered by React and Vite
-- Styled with Tailwind CSS
-
-Built with ❤️ on Rocket.new
+To compile it, run `npm run build`. Its declared stack includes React, Vite, React Router, Redux Toolkit, Tailwind CSS, and Framer Motion. No application build was rerun for this documentation update.
