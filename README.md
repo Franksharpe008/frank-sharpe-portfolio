@@ -18,12 +18,15 @@ Personnel are fictional and financial examples are illustrative. Product source 
 
 ## More work to explore
 
-| Project | Problem addressed | What you can inspect |
+| Project | What it demonstrates | Try it |
 | --- | --- | --- |
-| [Sharpe Systems](https://github.com/Franksharpe008/sharpe-systems-flagship) | Visitors need a clear route from a business need to a suitable next step. | A working rules-based diagnostic and interactive service recommendations. [Open site](https://sharpe-systems-flagship.vercel.app/) |
-| [Reelhouse Library](https://github.com/Franksharpe008/reelhouse-library) | A content catalog needs useful discovery and an easy way to save a selection. | Search, format and genre filters, title detail pages, and a watchlist saved on the device. [Open site](https://reelhouse-library.vercel.app/) |
-| [Vibe & Value](https://github.com/Franksharpe008/vibe-and-value) | Meal planning needs visible price tradeoffs and connected planning steps. | Recipe comparisons, ingredient swaps, planning, and progress state using sample data. [Open prototype](https://vibe-and-value.vercel.app/) |
-| [Magnetar Motion House](https://github.com/Franksharpe008/magnetar-motion-house) | A visual presentation needs consistent motion and navigation beyond its opening screen. | A multi-page cinematic interface with video controls, optional audio, and motion safeguards. [Open site](https://magnetar-motion-house.vercel.app/) |
+| [Sienna / Gemma](https://github.com/Franksharpe008/gemma-standalone-immersion) | WebGPU language-model inference, streamed conversation and browser speech. Hardware and a large initial download are required. | [Open local-AI interface](https://gemma-standalone.vercel.app) |
+| [Neon Rift](https://github.com/Franksharpe008/neon-rift) | Canvas gameplay, input, encounters, adaptive enemy logic and independent audio loading. | [Play game](https://neon-rift-one.vercel.app) |
+| [Chordloom](https://github.com/Franksharpe008/chordloom) | Rules-based music generation, a sampled grand-piano keyboard, synchronized playback and MIDI/WAV export. | [Make a piano loop](https://chordloom-kappa.vercel.app) |
+| [Reelhouse Library](https://github.com/Franksharpe008/reelhouse-library) | Search/filter discovery, detail routes and synchronized device-local watchlist controls. | [Explore catalog](https://reelhouse-library.vercel.app/) |
+| [Magnetar Motion House](https://github.com/Franksharpe008/magnetar-motion-house) | Cinematic interface design, multi-page navigation, optional audio and an honest email-draft flow. | [Explore motion](https://magnetar-motion-house.vercel.app/) |
+
+Additional prototypes include [Sharpe Systems](https://github.com/Franksharpe008/sharpe-systems-flagship) and [Vibe & Value](https://github.com/Franksharpe008/vibe-and-value). The selected lineup emphasizes breadth and inspectable behavior. A linked deployment may take time to update after a source change; each repository states its verification scope.
 
 ## How I work
 
@@ -37,13 +40,14 @@ Personnel are fictional and financial examples are illustrative. Product source 
 
 ## About this repository
 
-This repository is the public index for my selected work and contains an earlier React/Vite portfolio interface. The current featured systems are linked above; the older interface is not the source of Main Architect.
+This is the public work index and a React/Vite selected-work interface. The landing page connects business systems, local AI, games, music tools and cinematic design. Main Architect is a separate application; its product source remains private.
 
-To explore that interface locally:
+Legacy concept components remain in the source history/tree but are not rendered by the selected-work route. Their sample metrics, testimonials and awards are **concept content**, not verified professional results.
 
 ```bash
-npm install
+npm install --legacy-peer-deps
 npm start
+npm run build
 ```
 
-To compile it, run `npm run build`. Its declared stack includes React, Vite, React Router, Redux Toolkit, Tailwind CSS, and Framer Motion. No application build was rerun for this documentation update.
+The install flag accommodates this older project's React/testing-library peer dependency mismatch. A dependency modernization would be a separate change. The new landing page passed a production build on October 8, 2026; that alone does not prove a hosted deployment. The repository's website link intentionally remains the working Main Architect presentation.
