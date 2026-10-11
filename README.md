@@ -1,29 +1,50 @@
 # Frank D. Sharpe · Practical AI & Business Systems
 
-I turn operating problems into working software. My background connects manufacturing leadership, equipment troubleshooting, client technology delivery, and AI-assisted application development.
+I turn operating problems into working software. My work connects manufacturing leadership, equipment troubleshooting, client technology delivery, and AI-assisted development—across business systems, browser AI, creative tools, and games.
 
-**[Watch Main Architect](https://franksharpe-main-architect.vercel.app/presentation)** · **[LinkedIn](https://www.linkedin.com/in/therelentlessconnoisseur)** · **[GitHub](https://github.com/Franksharpe008)**
+**[Watch the systems](https://frank-sharpe-flagship-systems.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/therelentlessconnoisseur)** · **[GitHub profile](https://github.com/Franksharpe008)**
 
-## Start here: Main Architect
+## Live Shift Command · Production intelligence
 
-**The problem:** staffing requirements, schedules, attendance, and coverage decisions become difficult to reconcile when they live in separate workflows.
+[![Live Shift Command — Find where time goes.](https://frank-sharpe-flagship-systems.vercel.app/media/shift-cover-20261011.png)](https://frank-sharpe-flagship-systems.vercel.app/shift-command)
 
-**The system:** Main Architect connects those tasks in a personnel application. Aiden provides an approval-based interface for supported changes and reporting. A reviewer can inspect the saved result instead of relying on a presentation alone.
+**[Watch the narrated workflow · 1:59](https://frank-sharpe-flagship-systems.vercel.app/shift-command)**
 
-**My contribution:** defined the operating requirements and action boundaries, directed AI-assisted implementation, tested workflows, and used reviewer feedback to correct navigation, roster behavior, and reporting.
+**The problem:** a stopwatch reading alone cannot explain where work is waiting, what should become a production standard, or what a manager can trust.
 
-The presentation pairs a short walkthrough with a separate fictional review workspace. Use the company-specific link supplied with your application or invitation to enter that workspace. The public presentation link does not grant owner access.
+**What I built:** time-study capture with human, machine and idle classification; shared floor and manager state; production-loss evidence; independent custom-run planning; and recovery/history controls.
 
-Personnel are fictional and financial examples are illustrative. Product source remains private. The work demonstrates practical workflow design, guarded AI execution, saved outcomes, and correction through feedback.
+**What the film shows:** capture intervals, classify and verify the study, inspect the shared area state, review an unresolved loss, and calculate a separate one-hour production plan. Measured observations, approved standards, planned capacity and reported actuals remain distinct.
 
-## More working systems
+**My contribution:** translated operating needs into workflows and decision rules, directed AI-assisted implementation, tested saved behavior and recovery, and corrected issues through evidence and feedback. Review examples use fictional operating data.
 
-**[Watch Live Shift Command and Opportunity Command Center](https://frank-sharpe-flagship-systems.vercel.app)**
+## Opportunity Command Center · Discovery to follow-through
 
-- **Live Shift Command:** floor time studies, human/machine/idle classification, shared manager and floor state, production-loss evidence, separate custom-run planning, and recovery that preserves shift history. The walkthrough shows recorded measurements and saved decisions with fictional operating data.
-- **Opportunity Command Center:** discover contacts from a public source, retain provenance, reject duplicate imports, assign the owner and follow-up, search the saved record, and export a 75-field spreadsheet. Unpublished contact details stay blank.
+[![Opportunity Command Center — Keep the next move clear.](https://frank-sharpe-flagship-systems.vercel.app/media/opportunity-cover-20261011.png)](https://frank-sharpe-flagship-systems.vercel.app/opportunity-command-center)
 
-Both short films show the actual interfaces with narration and captions. The presentations are public; working applications require a private invitation and use separate reviewer workspaces. Product source and original business data remain private.
+**[Watch the narrated workflow · 1:48](https://frank-sharpe-flagship-systems.vercel.app/opportunity-command-center)**
+
+**The problem:** a contact list has limited value when the source, account context, owner and next action are scattered.
+
+**What I built:** a structured opportunity workflow with public-source contact discovery, retained provenance, duplicate-safe imports, a priority queue, saved account updates, pipeline views and a 75-field spreadsheet export.
+
+**What the film shows:** review published contacts, choose what to save, assign ownership and follow-up, reload the saved workspace, inspect the pipeline and export the record structure. Unpublished contact details stay blank.
+
+**My contribution:** designed the record structure and follow-through process, connected the interface to persistent records, and tested intake, updates, search, retries and exports. The clean review workbook is a separate artifact; a live Google Sheets connection is not represented as delivered.
+
+## Main Architect · Workforce decisions
+
+**[Watch Main Architect](https://franksharpe-main-architect.vercel.app/presentation)**
+
+Main Architect connects staffing requirements, schedules, attendance and coverage decisions in a personnel application. Aiden provides an approval-based interface for supported changes and reporting.
+
+I defined the operating requirements and action boundaries, directed AI-assisted implementation, tested workflows, and used reviewer feedback to correct navigation, roster behavior and reporting.
+
+The walkthrough uses fictional personnel; financial examples are illustrative.
+
+### Explore a working system
+
+Films are public. The working business applications require an invitation supplied directly by me, with a separate saved reviewer workspace, expiry and revocation. Public portfolio links do not grant product access. Original business data and product source remain private.
 
 ## More work to explore
 
