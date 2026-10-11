@@ -23,7 +23,7 @@ Personnel are fictional and financial examples are illustrative. Product source 
 - **Live Shift Command:** floor time studies, human/machine/idle classification, shared manager and floor state, production-loss evidence, separate custom-run planning, and recovery that preserves shift history. The walkthrough shows recorded measurements and saved decisions with fictional operating data.
 - **Opportunity Command Center:** discover contacts from a public source, retain provenance, reject duplicate imports, assign the owner and follow-up, search the saved record, and export a 75-field spreadsheet. Unpublished contact details stay blank.
 
-Both short films show the actual interfaces with narration and captions. The presentations are public; working applications require a private invitation and use separate reviewer workspaces. Product source and original business data remain private. Live Aiden and Google Sheets synchronization are separate connections still being completed for these isolated showcases.
+Both short films show the actual interfaces with narration and captions. The presentations are public; working applications require a private invitation and use separate reviewer workspaces. Product source and original business data remain private.
 
 ## More work to explore
 
