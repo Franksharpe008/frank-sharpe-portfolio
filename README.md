@@ -16,6 +16,15 @@ The presentation pairs a short walkthrough with a separate fictional review work
 
 Personnel are fictional and financial examples are illustrative. Product source remains private. The work demonstrates practical workflow design, guarded AI execution, saved outcomes, and correction through feedback.
 
+## More working systems
+
+**[Watch Live Shift Command and Opportunity Command Center](https://frank-sharpe-flagship-systems.vercel.app)**
+
+- **Live Shift Command:** floor time studies, human/machine/idle classification, shared manager and floor state, production-loss evidence, separate custom-run planning, and recovery that preserves shift history. The walkthrough shows recorded measurements and saved decisions with fictional operating data.
+- **Opportunity Command Center:** discover contacts from a public source, retain provenance, reject duplicate imports, assign the owner and follow-up, search the saved record, and export a 75-field spreadsheet. Unpublished contact details stay blank.
+
+Both short films show the actual interfaces with narration and captions. The presentations are public; working applications require a private invitation and use separate reviewer workspaces. Product source and original business data remain private. Live Aiden and Google Sheets synchronization are separate connections still being completed for these isolated showcases.
+
 ## More work to explore
 
 | Project | What it demonstrates | Try it |
